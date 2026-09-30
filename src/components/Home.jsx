@@ -35,7 +35,7 @@ const Home = () => {
             LinkedIn
           </a>
           <span>•</span>
-          <a href="mailto:mitchell@example.com">Email</a>
+          <a href="mailto:mdenni22@my.centennialcollege.ca">Email</a>
         </div>
       </header>
     </div>
