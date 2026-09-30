@@ -26,7 +26,7 @@ const About = () => {
 
           {/* Paragraph 3: Interests, Philosophy, or Goals */}
           <p>
-            I spent all my free time at the golf course. I started playing golf around the same time I started programming. I find that it gives me a
+            I spend all my free time at the golf course. I started playing golf around the same time I started programming. I find that it gives me a
             good solid break from working at the computer. Keeping a balance between work and play is important as a software developer. Without
             balance, it will reflect in your work.
           </p>
